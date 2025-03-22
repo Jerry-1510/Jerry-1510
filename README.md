@@ -28,6 +28,7 @@ A [your role] passionate about crafting clean code and solving real-world proble
 ---
 
 ## 🌟 Featured Projects
+<img src="https://img.shields.io/badge/Status-Active-brightgreen?style=flat" alt="Status" />
 - **[Project 1](link):** A sleek app built with Next.js and Tailwind CSS.  
   ![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=flat)  
 - **[Project 2](link):** Automated workflows using GitHub Actions and Docker.  
