@@ -16,3 +16,6 @@ Mình là một sinh viên CNTT đam mê lĩnh vực web dev.
 
 ## 📫 Liên hệ  
 [Twitter](link) | [LinkedIn](link) | [Email](mailto:email-của-bạn)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Jerry-1510
+&theme=react-dark)
