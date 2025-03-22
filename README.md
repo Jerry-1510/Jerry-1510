@@ -1,16 +1,18 @@
-## Hi there 👋
+# Xin chào, mình là Tuấn 👋
 
-<!--
-**Jerry-1510/Jerry-1510** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Mình là một sinh viên CNTT đam mê lĩnh vực web dev.  
 
-Here are some ideas to get you started:
+## 🔧 Kỹ năng  
+- **Ngôn ngữ:** JavaScript, HTML, CSS
+- **Công cụ:** VS Code    
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats  
+![Your Stats](https://github-readme-stats.vercel.app/api?username=[username-của-bạn]&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=[username-của-bạn]&layout=compact&theme=radical)
+
+## 🔥 Dự án nổi bật  
+- **[Tên dự án 1](link):** Mô tả ngắn (1 câu).  
+- **[Tên dự án 2](link):** Mô tả ngắn (1 câu).  
+
+## 📫 Liên hệ  
+[Twitter](link) | [LinkedIn](link) | [Email](mailto:email-của-bạn)
