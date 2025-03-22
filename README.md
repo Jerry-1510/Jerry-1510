@@ -2,7 +2,7 @@
 
 # Hey, I'm Công Tuấn ✨
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FFFFFF¢er=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=0000FF¢er=true&vCenter=true&width=435&lines=Full-Stack+Developer;Open+Source+Enthusiast;Always+Learning+New+Tech" alt="Typing SVG" />
 
 A [your role] passionate about crafting clean code and solving real-world problems.
 
