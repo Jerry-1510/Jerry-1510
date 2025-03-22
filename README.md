@@ -11,6 +11,7 @@ A [your role] passionate about crafting clean code and solving real-world proble
 ---
 
 ## 🛠️ Skills
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white" alt="TypeScript" />
 - **Languages:** JavaScript
 - **Frameworks:** React.js  
 - **Tools:** 
